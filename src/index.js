@@ -1,3 +1,3 @@
-import CookieManager from './cookie-manager';
+import SimpleCookie from './simple-cookie';
 
-export default CookieManager;
+export default SimpleCookie;

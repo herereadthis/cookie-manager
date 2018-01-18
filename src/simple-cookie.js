@@ -23,7 +23,7 @@ const parseJsonOrReturnString = (str) => {
     return result;
 };
 
-export default class CookieManager {
+export default class SimpleCookie {
 
     // TODO: perhaps make CookieManager a singleton class
     // TODO: determine whether util functions merit own utils file
