@@ -1,0 +1,25 @@
+{
+  "name": "cookie-manager",
+  "version": "0.1.0",
+  "description": "parse, set, read, and manage cookies via ES6 Javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herereadthis/cookie-manager.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "Jimmy Ha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herereadthis/cookie-manager/issues"
+  },
+  "homepage": "https://github.com/herereadthis/cookie-manager#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
