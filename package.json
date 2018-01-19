@@ -13,8 +13,17 @@
   "keywords": [
     "cookie"
   ],
-  "author": "Jimmy Ha",
-  "license": "MIT",
+  "author": {
+    "name": "Jimmy Ha",
+    "email": "herereadthis@gmail.com",
+    "url": "http://herereadthis.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/herereadthis/simple-cookie/blob/master/LICENSE"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/herereadthis/simple-cookie/issues"
   },
